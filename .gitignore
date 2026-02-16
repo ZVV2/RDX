@@ -1,5 +1,8 @@
 # KiCad
 RDX-backups
-
-# General
-~$*
+~*
+\#auto_saved_files\#
+_autosave-*
+fp-info-cache
+sym-lib-table
+*.bak
