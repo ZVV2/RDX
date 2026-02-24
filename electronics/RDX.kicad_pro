@@ -449,7 +449,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "RDX_Comp"
+    ]
   },
   "meta": {
     "filename": "RDX.kicad_pro",
